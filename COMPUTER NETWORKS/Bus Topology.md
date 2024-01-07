@@ -1,0 +1,1 @@
+All devices are connected to a shared medium

@@ -1,0 +1,1 @@
+Where transmission can be both ways simultaneously

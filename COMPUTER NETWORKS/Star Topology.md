@@ -1,0 +1,1 @@
+Each device is linked with a Central Hub

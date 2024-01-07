@@ -1,0 +1,8 @@
+- Also known as Network Topology
+- Network topology is the structure of a network including physical arrangement of devices.
+- Types :
+	- [[Mesh Topology]]
+	- [[Star Topology]]
+	- [[Tree Topology]]
+	- [[Bus Topology]]
+	- [[Ring Topology]]

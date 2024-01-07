@@ -1,0 +1,1 @@
+Every device has point to point link with every other device

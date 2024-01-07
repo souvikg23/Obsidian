@@ -1,0 +1,1 @@
+A dedicated transmission Link between two Devices

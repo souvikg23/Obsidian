@@ -1,0 +1,4 @@
+- The Relationship Between Communication Devices and their pathway
+- Types:
+	- [[point to point line configuration]]
+	- [[multipoint line configuration]]

@@ -1,0 +1,13 @@
+- **Physical layer defines the mechanical and electrical specifications of the medium**
+		- **Physical Characteristics of Interfaces and Medium**
+		- Representation of bits
+			- Physical Layer Data = Uninterpreted Stream of Bits
+			- Bits must be Encoded into Signal
+		- Data Rate
+			- Number of bits sent each second
+		- Synchronization of Bits
+			- Sender and Receiver must be synchronized at Bit levels
+		- [[Line Configuration]]
+		- [[Physical Topology]] 
+		- [[Transmission Mode]]
+		

@@ -1,0 +1,1 @@
+A line configuration where three or more devices share a common transmission

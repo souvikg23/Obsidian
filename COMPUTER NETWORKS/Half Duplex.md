@@ -1,0 +1,1 @@
+Where communication is two way but not simultaneously
