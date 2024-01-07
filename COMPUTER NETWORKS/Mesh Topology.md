@@ -1,1 +1,1 @@
-Every device has point to point link with every other devices  okokokokokokok
+Every device has point to point link with every other devices  
