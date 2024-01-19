@@ -11,8 +11,13 @@
             "id": "1cca159b234f69b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SNA/OOTD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SNA/OOTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SNA/OOTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SNA/OOTD.md"
+              }
             }
           },
           {
@@ -164,6 +173,7 @@
   },
   "active": "1cca159b234f69b9",
   "lastOpenFiles": [
+    "SNA/OOTD.md",
     "COMPUTER NETWORKS/Hamming Code.md",
     "COMPUTER NETWORKS/Line Configuration.md",
     "SNA",
