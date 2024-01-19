@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okeretr.md",
+                "file": "COMPUTER NETWORKS/Hamming Code.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,13 +44,8 @@
             "id": "44ceb6d0acc9cd5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "okeretr.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -119,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "okeretr.md",
+                "file": "COMPUTER NETWORKS/Hamming Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okeretr.md",
+                "file": "COMPUTER NETWORKS/Hamming Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "okeretr.md"
+                "file": "COMPUTER NETWORKS/Hamming Code.md"
               }
             }
           },
@@ -204,11 +199,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f0c3c42625111b3a",
+  "active": "35d67779b1e7da06",
   "lastOpenFiles": [
+    "SNA",
+    "okeretr.md",
     "COMPUTER NETWORKS/Hamming Code.md",
     "COMPUTER NETWORKS/Untitled.md",
-    "okeretr.md",
     "Social Network",
     "COMPUTER NETWORKS/Network Layer.md",
     "COMPUTER NETWORKS/open system interconnection model (OSI).md",
@@ -232,7 +228,6 @@
     "COMPUTER NETWORKS/point to point line configuration.md",
     "COMPUTER NETWORKS/Transmission Mode.md",
     "COMPUTER NETWORKS/multipoint line configuration.md",
-    "COMPUTER NETWORKS/Bus Topology.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "COMPUTER NETWORKS",
