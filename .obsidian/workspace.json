@@ -4,44 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a18f67075905bb3",
+        "id": "29dae7fe0c845315",
         "type": "tabs",
         "children": [
           {
-            "id": "eb388a01760a51d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPUTER NETWORKS/Line Configuration.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0c3c42625111b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMPUTER NETWORKS/Hamming Code.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a5b526876b050358",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44ceb6d0acc9cd5e",
+            "id": "1cca159b234f69b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -114,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMPUTER NETWORKS/Hamming Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMPUTER NETWORKS/Hamming Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "COMPUTER NETWORKS/Hamming Code.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,11 +162,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "35d67779b1e7da06",
+  "active": "1cca159b234f69b9",
   "lastOpenFiles": [
+    "COMPUTER NETWORKS/Hamming Code.md",
+    "COMPUTER NETWORKS/Line Configuration.md",
     "SNA",
     "okeretr.md",
-    "COMPUTER NETWORKS/Hamming Code.md",
     "COMPUTER NETWORKS/Untitled.md",
     "Social Network",
     "COMPUTER NETWORKS/Network Layer.md",
@@ -223,7 +187,6 @@
     "COMPUTER NETWORKS/Application Layer.md",
     "COMPUTER NETWORKS/LLC.md",
     "COMPUTER NETWORKS/Types of Data Link.md",
-    "COMPUTER NETWORKS/Line Configuration.md",
     "COMPUTER NETWORKS/Mesh Topology.md",
     "COMPUTER NETWORKS/point to point line configuration.md",
     "COMPUTER NETWORKS/Transmission Mode.md",
@@ -248,7 +211,6 @@
     "OS notes/Processes/Pasted image 20230911175804.png",
     "OS notes/Processes/Pasted image 20230911174230.png",
     "OS notes/Processes/Pasted image 20230911171547.png",
-    "OS notes/Processes",
-    "OS notes/Processes/Process Scheduling"
+    "OS notes/Processes"
   ]
 }
